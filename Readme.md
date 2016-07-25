@@ -1,6 +1,5 @@
 # Curso de git do Willian Justen
 
-auehauiehaiuheiaehaheaiuehaiheaiehaieh
 Apredendo git com o willian justen
 
 Coloquei mais uma linha
