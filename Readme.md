@@ -1,4 +1,4 @@
-# Curso de git do Willian Justen
+# Curso de git do Willian Justen - ESTUDO DE GIT
 
 Apredendo git com o willian justen
 
